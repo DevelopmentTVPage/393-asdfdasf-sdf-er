@@ -1,0 +1,14 @@
+#Hugo configuration
+title = "qwesdfd"
+baseURL = "https:\/\/asdfdasf.sdf.er"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+galleryChannelIds = ""
+
+[params]
+loginId = "1758823"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "sdf.er"
